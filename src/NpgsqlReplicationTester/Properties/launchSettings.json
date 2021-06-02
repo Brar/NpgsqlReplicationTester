@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "NpgsqlReplicationTester": {
+      "commandName": "Project",
+      "commandLineArgs": "--publication-names my_publication --slotname my_slot"
+    }
+  }
+}
